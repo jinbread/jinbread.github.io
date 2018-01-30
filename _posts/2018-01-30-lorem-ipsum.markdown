@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lorem Ipsum"
+date:   2018-01-30 21:54:49 +0100
 categories: default
 ---
 

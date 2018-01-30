@@ -16,8 +16,7 @@
 title: Jinbread Studio
 email: jinjae.lee@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Interaction designer + Prototyper.
-  I write, I sing, and I photograph.
+  Interaction designer based in Stockholm and Seoul. I design stories and experiences. I write, I sing, and I photograph.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jinbread
