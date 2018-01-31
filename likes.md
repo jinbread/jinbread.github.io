@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Likes
+title: likes
 permalink: /likes/
+order: 3
 ---
 
 This is what I like.

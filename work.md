@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Work
+title: work
 permalink: /work/
+order: 2
 ---
 
 This is my work.
